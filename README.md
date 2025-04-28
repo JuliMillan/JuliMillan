@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**JuliMillan/JuliMillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Julieta, I am **Zoologist** and **Data Scientist** from Argentina.
 
-Here are some ideas to get you started:
+### A little bit about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔭 I'm currently organizing the [csv,conf,v9](https://csvconf.com/)
+ - 🌿 I'm learning Software Engineering and MLOps
+ - 👯‍♀️ I'm serving as editor for pyOpenSci and onboarding as a maintainer for The Carpentries
+ - 👤 My pronouns are she/her/ella
+ - ⚡️ Fun fact: I'm a pretty good sewist 🪡🧵
+
+### I'm intertested in
+
+- 🌎 Open knowledge
+- 🧠 Computer Vision and Geospatial Data Science
+- 📚 Education and Communities of practice
+- 👷🏻‍♀️ Machine Learning Engineering
