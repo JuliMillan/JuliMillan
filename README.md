@@ -10,7 +10,7 @@ My name is Julieta, I am **Zoologist** and **Data Scientist** from Argentina.
  - 👤 My pronouns are she/her/ella
  - ⚡️ Fun fact: I'm a pretty good sewist 🪡🧵
 
-### I'm intertested in
+### I'm interested in
 
 - 🌎 Open knowledge
 - 🧠 Computer Vision and Geospatial Data Science
